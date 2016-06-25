@@ -1,0 +1,35 @@
+/* shared */
+.section {
+	min-height: 100vh;
+}
+.header-wrapper {
+	padding-top: 15px;
+}
+
+/* home section */
+.splash {
+	margin-top: 25%;
+}
+
+/* contact section */
+.section-end {
+	height: calc(100vh - 50px);
+}
+.message-wrapper {
+	border: 1px solid #FF4431;
+}
+.message-text {
+	color: #FF4431;
+}
+
+/* footer (social media links) */
+.social-wrapper {
+	height: 50px;
+	background-color: #f0f0f0;
+}
+.social-item {
+	padding: 10px;
+}
+.social-item > a {
+	padding-right: 10px;
+}
