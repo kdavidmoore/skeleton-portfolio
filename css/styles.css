@@ -27,9 +27,12 @@
 	height: 50px;
 	background-color: #f0f0f0;
 }
-.social-item {
+.social-items {
 	padding: 10px;
 }
-.social-item > a {
-	padding-right: 10px;
+.social-items > p {
+	padding-left: 10px;
+}
+.social-items > a {
+	padding-left: 10px;
 }

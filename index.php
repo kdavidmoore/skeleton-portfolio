@@ -128,9 +128,9 @@
 	<div class="u-full-width social-wrapper">
 		<div class="row">
 			<div class="six columns">
-				<div class="social-item">
-					<a href="https://github.com/kdavidmoore"><i class="fa fa-github fa-2x"></i></a>
-					<a href="https://linkedin.com/in/kdavidmoore"><i class="fa fa-linkedin fa-2x"></i></a>
+				<div class="social-items">
+					<a href="https://github.com/kdavidmoore"><i class="fa fa-github fa-2x"></i> GitHub</a>
+					<a href="https://linkedin.com/in/kdavidmoore"><i class="fa fa-linkedin fa-2x"></i> LinkedIn</a>
 				</div>
 			</div>
 		</div>
