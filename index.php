@@ -69,27 +69,27 @@
 					<div class="u-max-full-width">	
 						<img class="u-full-width" src="images/ag.png">
 					</div>
-					<p>Final project for the 16 Week Immersive Bootcamp at DigitalCrafts.</p>
-					<a class="button" href="#">GitHub</a>
-					<a class="button" href="#">Demo</a>
+					<p>eCommerce site built using MySQL, AngularUI Router, Express, and Node.js.</p>
+					<a class="button" href="https://github.com/kdavidmoore/final-project">GitHub</a>
+					<a class="button" href="http://ag.kdavidmoore.com/">Demo</a>
 				</div>
 				<div class="four columns">
 					<h4>Interactive Map</h4>
 					<div class="u-max-full-width">
 						<img class="u-full-width" src="images/langs.png">
 					</div>
-					<p>Front-end project for the 16 Week Immersive Bootcamp at DigitalCrafts.</p>
-					<a class="button" href="#">GitHub</a>
-					<a class="button" href="#">Demo</a>
+					<p>Interactive map built using DataMaps.js, AngularJS, and ngRouter.</p>
+					<a class="button" href="https://github.com/kdavidmoore/backTableBankers">GitHub</a>
+					<a class="button" href="http://kdavidmoore.com/languages">Demo</a>
 				</div>
 				<div class="four columns">
 					<h4>Coffee Site</h4>
 					<div class="u-max-full-width">
 						<img class="u-full-width" src="images/coffee.png">
 					</div>
-					<p>Class project for the 16 Week Immersive Bootcamp at DigitalCrafts.</p>
-					<a class="button" href="#">GitHub</a>
-					<a class="button" href="#">Demo</a>
+					<p>eCommerce site built using Bootstrap and the MEAN stack.</p>
+					<a class="button" href="https://github.com/kdavidmoore/coffee2-angular">GitHub</a>
+					<a class="button" href="http://kdavidmoore.com/coffee">Demo</a>
 				</div>
 			</div>
 		</div>
