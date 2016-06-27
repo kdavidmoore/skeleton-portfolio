@@ -117,8 +117,10 @@
 			</form>
 			<?php
 				if (isset($_GET['sent'])){
-					print "<div class='message-wrapper'>" .
+					print "<div class='row'>" .
+						"<div class='message-wrapper six columns'>" .
 						"<p class='message-text'>Message sent! I'll be in touch shortly.</p>" .
+						"</div>" .
 						"</div>";
 				}
 			?>

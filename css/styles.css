@@ -1,4 +1,7 @@
 /* shared */
+a, h1, h2, h3, h4, p {
+	color: #3B4A4D;
+}
 .section {
 	min-height: 100vh;
 }
@@ -27,7 +30,7 @@
 
 /* portfolio section */
 #portfolio {
-	background-color: #f0f0f0;
+	background-color: #F7F8FA;
 }
 
 /* contact section */
@@ -36,15 +39,17 @@
 }
 .message-wrapper {
 	border: 1px solid #FF4431;
+	text-align: center;
 }
 .message-text {
 	color: #FF4431;
+	padding-top: 20px;
 }
 
 /* footer (social media links) */
 .social-wrapper {
 	height: 50px;
-	background-color: #f0f0f0;
+	background-color: #F7F8FA;
 }
 .social-items {
 	padding: 10px;
