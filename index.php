@@ -112,7 +112,7 @@
 					</div>
 				</div>
 				<label for="message">Message</label>
-				<textarea class="u-full-width" placeholder="Your message" id="message" name="message"></textarea>
+				<textarea class="u-full-width" placeholder="your message" id="message" name="message"></textarea>
 				<input class="button-primary" type="submit" value="Send">
 			</form>
 			<?php
