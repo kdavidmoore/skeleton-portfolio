@@ -28,7 +28,7 @@
 				<div class="six columns splash">
 					<h2>Keith Moore</h2>
 					<p>I'm a full stack web developer with a focus on JavaScript, the MEAN stack, and the LAMP stack.</p>
-					<a class="button button-primary" href="#portfolio">Browse Portfolio</a>
+					<a class="button button-primary spaced-button-left" href="#portfolio">Browse Portfolio</a><a class="button button-primary spaced-button-right" href="kmoore_resume.pdf">Download Resume</a>
 				</div>
 			</div>
 		</div>
@@ -103,16 +103,16 @@
 			<form action="mailer.php" method="post">
 				<div class="row">
 					<div class="six columns">
-						<label for="nameInput">Your name</label>
-						<input class="u-full-width" type="text" placeholder="Your Name" id="nameInput" name="nameInput">
+						<label for="nameInput">Name</label>
+						<input class="u-full-width" type="text" placeholder="your name" id="nameInput" name="nameInput">
 					</div>
 					<div class="six columns">
-						<label for="emailInput">Your email</label>
-						<input class="u-full-width" type="email" placeholder="someuser@mailbox.com" id="emailInput" name="emailInput">
+						<label for="emailInput">Email</label>
+						<input class="u-full-width" type="email" placeholder="your email address" id="emailInput" name="emailInput">
 					</div>
 				</div>
 				<label for="message">Message</label>
-				<textarea class="u-full-width" placeholder="Well hello there" id="message" name="message"></textarea>
+				<textarea class="u-full-width" placeholder="Your message" id="message" name="message"></textarea>
 				<input class="button-primary" type="submit" value="Send">
 			</form>
 			<?php

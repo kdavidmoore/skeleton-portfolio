@@ -7,8 +7,27 @@
 }
 
 /* home section */
+#home {
+	background: url(../images/canyon.jpg) 50% 50% no-repeat;
+}
 .splash {
 	margin-top: 25%;
+	background-color: rgba(0,0,0,0.5);
+	padding: 20px;
+}
+.splash h2, .splash p {
+	color: white;
+}
+.spaced-button-left {
+	margin-right: 5px;
+}
+.spaced-button-right {
+	margin-left: 5px;
+}
+
+/* portfolio section */
+#portfolio {
+	background-color: #f0f0f0;
 }
 
 /* contact section */
