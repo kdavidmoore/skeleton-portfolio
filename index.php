@@ -28,7 +28,7 @@
 				<div class="six columns splash">
 					<h2>Keith Moore</h2>
 					<p>I'm a full stack web developer with a focus on JavaScript, the MEAN stack, and the LAMP stack.</p>
-					<a class="button button-primary spaced-button-left" href="#portfolio">Browse Portfolio</a><a class="button button-primary spaced-button-right" href="kmoore_resume.pdf">Download Resume</a>
+					<a class="button button-primary spaced-button-left" href="#portfolio">Browse Portfolio</a><a class="button button-primary spaced-button-right" href="/kmoore_resume.pdf">Download Resume</a>
 				</div>
 			</div>
 		</div>
@@ -69,7 +69,7 @@
 					<div class="u-max-full-width">	
 						<img class="u-full-width" src="images/ag.png">
 					</div>
-					<p>eCommerce site built using MySQL, AngularUI Router, Express, and Node.js.</p>
+					<p>eCommerce site built using AngularUI Router, Express/Node.js, and MySQL.</p>
 					<a class="button" href="https://github.com/kdavidmoore/final-project">GitHub</a>
 					<a class="button" href="http://ag.kdavidmoore.com/">Demo</a>
 				</div>
@@ -83,13 +83,13 @@
 					<a class="button" href="http://kdavidmoore.com/languages">Demo</a>
 				</div>
 				<div class="four columns">
-					<h4>Coffee Site</h4>
+					<h4>Rock Talk</h4>
 					<div class="u-max-full-width">
-						<img class="u-full-width" src="images/coffee.png">
+						<img class="u-full-width" src="images/yikyak.png">
 					</div>
-					<p>eCommerce site built using Bootstrap and the MEAN stack.</p>
-					<a class="button" href="https://github.com/kdavidmoore/coffee2-angular">GitHub</a>
-					<a class="button" href="http://kdavidmoore.com/coffee">Demo</a>
+					<p>Social media app built using PHP, AngularJS, MySQL, and MeekroDB.</p>
+					<a class="button" href="https://github.com/kdavidmoore/yikyak-clone">GitHub</a>
+					<a class="button" href="http://rocks.kdavidmoore.com">Demo</a>
 				</div>
 			</div>
 		</div>
