@@ -35,7 +35,7 @@ a, h1, h2, h3, h4, p {
 
 /* contact section */
 .section-end {
-	height: calc(100vh - 50px);
+	height: calc(100vh - 60px);
 }
 .message-wrapper {
 	border: 1px solid #FF4431;
@@ -48,7 +48,7 @@ a, h1, h2, h3, h4, p {
 
 /* footer (social media links) */
 .social-wrapper {
-	height: 50px;
+	height: 60px;
 	background-color: #f0f0f0;
 }
 .social-items {

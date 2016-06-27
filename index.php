@@ -131,8 +131,18 @@
 		<div class="row">
 			<div class="six columns">
 				<div class="social-items">
-					<a href="https://github.com/kdavidmoore"><i class="fa fa-github fa-2x"></i> GitHub</a>
-					<a href="https://linkedin.com/in/kdavidmoore"><i class="fa fa-linkedin fa-2x"></i> LinkedIn</a>
+					<a href="https://github.com/kdavidmoore">
+						<span class="fa-stack fa-lg">
+		  					<i class="fa fa-circle fa-stack-2x"></i>
+		  					<i class="fa fa-github fa-stack-1x fa-inverse"></i>
+						</span>
+					</a>
+					<a href="https://linkedin.com/in/kdavidmoore">
+						<span class="fa-stack fa-lg">
+		  					<i class="fa fa-circle fa-stack-2x"></i>
+		  					<i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+						</span>
+					</a>
 				</div>
 			</div>
 		</div>
