@@ -68,7 +68,7 @@
 						<img id="img-1" class="portfolio-thumb" src="images/coffee.png" alt="Coffee Site">
 					</div>
 					<div class="hover-thumb">
-						<h4 class="thumb-header">Coffee Site</h4>
+						<h5 class="thumb-header">Coffee Site</h5>
 						<p class="portfolio-buttons"><a href="https://github.com/kdavidmoore/coffee2-angular" class="portfolio button">GitHub</a> <a href="http://kdavidmoore.com/coffee" class="portfolio button">Demo</a></p>
 						<p class="info-text">An eCommerce app built using AngularJS, Node.js/Express, and MongoDB.</p>
 					</div>
@@ -78,7 +78,7 @@
 						<img id="img-2" class="portfolio-thumb" src="images/ag.png" alt="Ag Labs">
 					</div>
 					<div class="hover-thumb">
-						<h4 class="thumb-header">Ag Labs</h4>
+						<h5 class="thumb-header">Ag Labs</h5>
 						<p class="portfolio-buttons"><a href="https://github.com/kdavidmoore/final-project" class="portfolio button">GitHub</a> <a href="http://ag.kdavidmoore.com" class="portfolio button">Demo</a></p>
 						<p class="info-text">An eCommerce app built using AngularUI Router, Node.js/Express, and MySQL.</p>
 					</div>
@@ -88,7 +88,7 @@
 						<img id="img-7" class="portfolio-thumb" src="images/yikyak.png" alt="Rock Talk">
 					</div>
 					<div class="hover-thumb">
-						<h4 class="thumb-header">Rock Talk</h4>
+						<h5 class="thumb-header">Rock Talk</h5>
 						<p class="portfolio-buttons"><a href="https://github.com/kdavidmoore/yikyak-clone" class="portfolio button">GitHub</a> <a href="http://rocks.kdavidmoore.com" class="portfolio button">Demo</a></p>
 						<p class="info-text">Social media app built using PHP, MySQL, and MeekroDB.</p>
 					</div>
@@ -100,7 +100,7 @@
 						<img id="img-4" class="portfolio-thumb" src="images/langs.png" alt="Interactive Map">
 					</div>
 					<div class="hover-thumb">
-						<h4 class="thumb-header">Interactive Map</h4>
+						<h5 class="thumb-header">Interactive Map</h5>
 						<p class="portfolio-buttons"><a href="https://github.com/kdavidmoore/backTableBankers" class="portfolio button">GitHub</a> <a href="http://kdavidmoore.com/languages" class="portfolio button">Demo</a></p>
 						<p class="info-text">Uses AngularJS and DataMaps.js to apply and graphically display up to three data filters.</p>
 					</div>
@@ -110,7 +110,7 @@
 						<img id="img-5" class="portfolio-thumb" src="images/chat.png" alt="Node Chat">
 					</div>
 					<div class="hover-thumb">
-						<h4 class="thumb-header">Node Chat</h4>
+						<h5 class="thumb-header">Node Chat</h5>
 						<p class="portfolio-buttons"><a href="https://github.com/kdavidmoore/node-chat" class="portfolio button">GitHub</a> <a href="https://shielded-fortress-12118.herokuapp.com/" class="portfolio button">Demo</a></p>
 						<p class="info-text">Send and recieve messages from multiple chat clients using Node.js and socket.io.</p>
 					</div>
@@ -120,7 +120,7 @@
 						<img id="img-6" class="portfolio-thumb" src="images/tweets.png" alt="Panama Papers Tweets">
 					</div>
 					<div class="hover-thumb">
-						<h4 class="thumb-header">Panama Papers Tweets</h4>
+						<h5 class="thumb-header">Panama Papers Tweets</h5>
 						<p class="portfolio-buttons"><a href="https://github.com/kdavidmoore/panama-papers-tweets" class="portfolio button">GitHub</a> <a href="http://kdavidmoore.com/panama-papers" class="portfolio button">Demo</a></p>
 						<p class="info-text">Pulls data from Twitter API and filters results using AngularJS.</p>
 					</div>
@@ -132,7 +132,7 @@
 						<img id="img-8" class="portfolio-thumb" src="images/calc.png" alt="JS Calculator">
 					</div>
 					<div class="hover-thumb">
-						<h4 class="thumb-header">JS Calculator</h4>
+						<h5 class="thumb-header">JS Calculator</h5>
 						<p class="portfolio-buttons"><a href="https://github.com/kdavidmoore/js-calculator" class="portfolio button">GitHub</a> <a href="http://kdavidmoore.com/calculator" class="portfolio button">Demo</a></p>
 						<p class="info-text">Performs and displays simple calculations using HTML, CSS, jQuery, and JavaScript</p>
 					</div>
@@ -142,7 +142,7 @@
 						<img id="img-8" class="portfolio-thumb" src="images/places.png" alt="Search Places">
 					</div>
 					<div class="hover-thumb">
-						<h4 class="thumb-header">Search Places</h4>
+						<h5 class="thumb-header">Search Places</h5>
 						<p class="portfolio-buttons"><a href="https://github.com/kdavidmoore/us-cities-angular" class="portfolio button">GitHub</a> <a href="http://kdavidmoore.com/search-places" class="portfolio button">Demo</a></p>
 						<p class="info-text">Search for places and display directions using AngularJS and Google Maps JavaScript API.</p>
 					</div>
@@ -152,7 +152,7 @@
 						<img id="img-3" class="portfolio-thumb" src="images/movies.png" alt="Movie Crawler">
 					</div>
 					<div class="hover-thumb">
-						<h4 class="thumb-header">Movie Crawler</h4>
+						<h5 class="thumb-header">Movie Crawler</h5>
 						<p class="portfolio-buttons"><a href="https://github.com/kdavidmoore/movie-app" class="portfolio button">GitHub</a> <a href="http://kdavidmoore.com/movie-crawler" class="portfolio button">Demo</a></p>
 						<p class="info-text">Pulls JSON data from themoviedb.org API; filters results using typeahead.js and Isotope.</p>
 					</div>
