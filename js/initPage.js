@@ -4,9 +4,9 @@ $(document).ready(function() {
 });
 
 $(window).load(function(){
-	// make all the thumbnail images the same height
+	// make all the thumbnail images the same height (my screenshots are not perfect)
 	$('.portfolio-thumb').matchHeight({
-		byRow: true,
+		byRow: false,
 		property: 'height',
 		target: null,
 		remove: false
@@ -19,7 +19,7 @@ $(window).load(function(){
 	$(".thumb-wrapper").mouseleave(function(){
 		$(this).find('.hover-thumb').fadeToggle("fast");
 	});
-	// set the thumb-wrapper width/height equal to the width/height of one of the images
+	// set the thumb-wrapper heights equal to the height of the first image
 	var setHeight = $("#img-1").height();
 	$('.thumb-wrapper').height(setHeight);
 	// when the window is resized, tell matchHeight to update
