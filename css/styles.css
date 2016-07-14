@@ -17,6 +17,7 @@ a, h1, h2, h3, h4, p {
 	margin-top: 25%;
 	background-color: rgba(0,0,0,0.5);
 	padding: 20px;
+	min-width: 50%;
 }
 .splash h2, .splash p {
 	color: white;
@@ -26,6 +27,16 @@ a, h1, h2, h3, h4, p {
 }
 .spaced-button-right {
 	margin-left: 5px;
+}
+@media screen and (max-width: 1024px) {
+	.spaced-button-left {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+	.spaced-button-right {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
 }
 
 /* contact section */
