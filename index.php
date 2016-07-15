@@ -22,6 +22,7 @@
 <body>
 
 	<div class="section" id="home">
+		<progress max="7" value="0"></progress>
 		<div class="container">
 			<div class="row">
 				<div class="six columns splash">
@@ -97,12 +98,12 @@
 			<div class="row portfolio-wrapper">
 				<div class="thumb-wrapper">
 					<div class="outer-thumb">
-						<img id="img-4" class="portfolio-thumb" src="images/langs.png" alt="Interactive Map">
+						<img id="img-3" class="portfolio-thumb" src="images/react-movies.png" alt="Movie Crawler">
 					</div>
 					<div class="hover-thumb">
-						<h5 class="thumb-header">Interactive Map</h5>
-						<p class="portfolio-buttons"><a href="https://github.com/kdavidmoore/backTableBankers" class="portfolio button">GitHub</a><a href="http://kdavidmoore.com/languages" class="portfolio button">Demo</a></p>
-						<p class="info-text">Uses AngularJS and DataMaps.js to apply and graphically display up to three data filters.</p>
+						<h5 class="thumb-header">React Movie App</h5>
+						<p class="portfolio-buttons"><a href="https://github.com/kdavidmoore/react-movie-app" class="portfolio button">GitHub</a><a href="http://movies.kdavidmoore.com" class="portfolio button">Demo</a></p>
+						<p class="info-text">Uses React.js to display "Now Playing" movie information from themoviedb.org API.</p>
 					</div>
 				</div>
 				<div class="thumb-wrapper">
@@ -129,6 +130,16 @@
 			<div class="row portfolio-wrapper">
 				<div class="thumb-wrapper">
 					<div class="outer-thumb">
+						<img id="img-4" class="portfolio-thumb" src="images/langs.png" alt="Interactive Map">
+					</div>
+					<div class="hover-thumb">
+						<h5 class="thumb-header">Interactive Map</h5>
+						<p class="portfolio-buttons"><a href="https://github.com/kdavidmoore/backTableBankers" class="portfolio button">GitHub</a><a href="http://kdavidmoore.com/languages" class="portfolio button">Demo</a></p>
+						<p class="info-text">Uses AngularJS and DataMaps.js to apply and graphically display up to three data filters.</p>
+					</div>
+				</div>
+				<div class="thumb-wrapper">
+					<div class="outer-thumb">
 						<img id="img-8" class="portfolio-thumb" src="images/calc.png" alt="JS Calculator">
 					</div>
 					<div class="hover-thumb">
@@ -147,7 +158,7 @@
 						<p class="info-text">Search for places and display directions using AngularJS and Google Maps JavaScript API.</p>
 					</div>
 				</div>
-				<div class="thumb-wrapper">
+				<!-- <div class="thumb-wrapper">
 					<div class="outer-thumb">
 						<img id="img-3" class="portfolio-thumb" src="images/movies.png" alt="Movie Crawler">
 					</div>
@@ -156,7 +167,7 @@
 						<p class="portfolio-buttons"><a href="https://github.com/kdavidmoore/movie-app" class="portfolio button">GitHub</a><a href="http://kdavidmoore.com/movie-crawler" class="portfolio button">Demo</a></p>
 						<p class="info-text">Pulls JSON data from themoviedb.org API; filters results using typeahead.js and Isotope.</p>
 					</div>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</div>
@@ -217,6 +228,7 @@
 	<a href="#home" class="cd-top">Top</a>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
 <script src="http://cdn.jsdelivr.net/jquery.scrollto/2.1.2/jquery.scrollTo.min.js"></script>
 <script src="http://cdn.jsdelivr.net/jquery.localscroll/1.4.0/jquery.localScroll.min.js"></script>
 <script src="js/cd-top.js"></script>
