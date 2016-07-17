@@ -40,6 +40,9 @@ a, h1, h2, h3, h4, p {
 }
 
 /* contact section */
+#contact {
+	background-color: rgb(247,248,250);
+}
 .section-end {
 	height: calc(100vh - 60px);
 }
@@ -55,7 +58,7 @@ a, h1, h2, h3, h4, p {
 /* footer (social media links) */
 .social-wrapper {
 	height: 60px;
-	background-color: #f0f0f0;
+	background-color: rgb(247,248,250);
 }
 .social-items {
 	padding: 10px;

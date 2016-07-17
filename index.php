@@ -34,7 +34,7 @@
 		</div>
 	</div>
 
-	<div class="section" id="skills">
+	<!-- <div class="section" id="skills">
 		<div class="container">
 			<div class="header-wrapper">
 				<h2>Skills</h2>
@@ -56,7 +56,7 @@
 				</div>
 		  	</div>
 		</div>
-	</div>
+	</div> -->
 
 	<div class="section" id="portfolio">
 		<div class="container">
