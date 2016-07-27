@@ -22,13 +22,14 @@
 <body>
 
 	<div class="section" id="home">
-		<progress max="7" value="0"></progress>
 		<div class="container">
 			<div class="row">
 				<div class="six columns splash">
 					<h2>Keith Moore</h2>
 					<p>I'm a full stack web developer with a focus on JavaScript, the MEAN stack, and the LAMP stack.</p>
-					<a class="button button-primary spaced-button-left" href="#portfolio">Browse Portfolio</a><a class="button button-primary spaced-button-right" href="kmoore_resume.pdf">Download Resume</a>
+					<div class="down-arrow">
+						<a class="button button-primary rounded-button" href="#portfolio"><i class="fa fa-arrow-down fa-lg" aria-hidden="true"></i></a>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -220,6 +221,14 @@
 		  					<i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
 						</span>
 					</a>
+					<a href="kmoore_resume.pdf">
+						<span class="fa-stack fa-lg">
+							<i class="fa fa-circle fa-stack-2x"></i>
+							<i class="fa fa-file-text fa-stack-2x fa-inverse"></i>
+						</span>
+					</a>
+					
+					<!-- <a href="kmoore_resume.pdf">Download Resume</a> -->
 				</div>
 			</div>
 		</div>
