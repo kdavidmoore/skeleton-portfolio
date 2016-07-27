@@ -224,7 +224,7 @@
 					<a href="kmoore_resume.pdf">
 						<span class="fa-stack fa-lg">
 							<i class="fa fa-circle fa-stack-2x"></i>
-							<i class="fa fa-file-text fa-stack-2x fa-inverse"></i>
+							<i class="fa fa-file-text fa-stack-1x fa-inverse"></i>
 						</span>
 					</a>
 					
