@@ -25,8 +25,8 @@
 		<div class="container">
 			<div class="row">
 				<div class="six columns splash">
-					<h2>Keith Moore</h2>
-					<p>I'm a full stack web developer with a focus on JavaScript, the MEAN stack, and the LAMP stack.</p>
+					<h1>Keith Moore</h1>
+					<h5>Full Stack Web Developer</h5>
 					<div class="down-arrow-wrapper">
 						<a class="down-arrow" href="#portfolio"><i class="fa fa-arrow-down fa-2x" aria-hidden="true"></i></a>
 					</div>

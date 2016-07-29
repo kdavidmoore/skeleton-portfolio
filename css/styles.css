@@ -20,8 +20,11 @@ a, h1, h2, h3, h4, p {
 	min-width: 50%;
 	text-align: center;
 }
-.splash h2, .splash p {
+.splash h1 {
 	color: white;
+}
+.splash h5 {
+	color: rgba(255,255,255,0.7);
 }
 .down-arrow-wrapper {
 	width: 80%;
