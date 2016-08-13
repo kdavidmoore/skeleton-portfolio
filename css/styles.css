@@ -42,9 +42,6 @@ a, h1, h2, h3, h4, p {
 #contact {
 	background-color: rgb(247,248,250);
 }
-.section-end {
-	height: calc(100vh - 60px);
-}
 .message-wrapper {
 	border: 1px solid #FF4431;
 	text-align: center;
@@ -54,10 +51,10 @@ a, h1, h2, h3, h4, p {
 	padding-top: 20px;
 }
 
-/* footer (social media links) */
-.social-wrapper {
-	height: 60px;
-	background-color: rgb(247,248,250);
+/* social media icons */
+.centered {
+	margin: 0 auto;
+	text-align: center;
 }
 .social-items {
 	padding: 10px;
@@ -67,4 +64,7 @@ a, h1, h2, h3, h4, p {
 }
 .social-items > a {
 	padding-left: 10px;
+}
+.filler {
+	min-width: 10px;
 }

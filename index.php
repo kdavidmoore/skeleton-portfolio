@@ -35,30 +35,6 @@
 		</div>
 	</div>
 
-	<!-- <div class="section" id="skills">
-		<div class="container">
-			<div class="header-wrapper">
-				<h2>Skills</h2>
-			</div>
-			<div class="row">
-				<div class="six columns">
-					<h4>Front-end development</h4>
-					<ul>
-						<li>HTML, CSS, SASS, Bootstrap, Materialize</li>
-						<li>JavaScript, jQuery, AngularJS</li>
-					</ul>
-				</div>
-				<div class="six columns">
-					<h4>Full-stack development</h4>
-					<ul>
-						<li><b>MEAN</b> stack: MongoDB, Express, AngularJS, and Node.js</li>
-						<li><b>LAMP</b> stack: Linux, Apache, MySQL, and PHP</li>
-					</ul>
-				</div>
-		  	</div>
-		</div>
-	</div> -->
-
 	<div class="section" id="portfolio">
 		<div class="container">
 			<div class="header-wrapper">
@@ -173,7 +149,7 @@
 		</div>
 	</div>
 
-	<div class="section-end" id="contact">
+	<div class="section" id="contact">
 		<div class="container">
 			<div class="header-wrapper">
 				<h2>Get in touch</h2>
@@ -202,34 +178,29 @@
 						"</div>";
 				}
 			?>
-		</div>
-	</div>
-
-	<div class="u-full-width social-wrapper">
-		<div class="row">
-			<div class="six columns">
-				<div class="social-items">
-					<a href="https://github.com/kdavidmoore">
-						<span class="fa-stack fa-lg">
-		  					<i class="fa fa-circle fa-stack-2x"></i>
-		  					<i class="fa fa-github fa-stack-1x fa-inverse"></i>
-						</span>
-					</a>
-					<a href="https://linkedin.com/in/kdavidmoore">
-						<span class="fa-stack fa-lg">
-		  					<i class="fa fa-circle fa-stack-2x"></i>
-		  					<i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
-						</span>
-					</a>
-					<a href="kmoore_resume.pdf">
-						<span class="fa-stack fa-lg">
-							<i class="fa fa-circle fa-stack-2x"></i>
-							<i class="fa fa-file-text fa-stack-1x fa-inverse"></i>
-						</span>
-					</a>
-					
-					<!-- <a href="kmoore_resume.pdf">Download Resume</a> -->
-				</div>
+			<div class="row">
+				<div class="u-full-width centered"></div>
+					<h4 class="centered">Follow me on social media</h4>
+					<div class="social-items centered">
+						<a href="https://github.com/kdavidmoore">
+							<span class="fa-stack fa-2x">
+								<i class="fa fa-circle fa-stack-2x"></i>
+								<i class="fa fa-github fa-stack-1x fa-inverse"></i>
+							</span>
+						</a>
+						<a href="https://linkedin.com/in/kdavidmoore">
+							<span class="fa-stack fa-2x">
+								<i class="fa fa-circle fa-stack-2x"></i>
+								<i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+							</span>
+						</a>
+						<a href="kmoore_resume.pdf">
+							<span class="fa-stack fa-2x">
+								<i class="fa fa-circle fa-stack-2x"></i>
+								<i class="fa fa-file-text fa-stack-1x fa-inverse"></i>
+							</span>
+						</a>
+					</div>
 			</div>
 		</div>
 	</div>
