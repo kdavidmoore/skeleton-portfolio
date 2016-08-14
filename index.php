@@ -21,14 +21,16 @@
 </head>
 <body>
 
-	<div class="section" id="home">
+	<div class="section centered" id="home">
 		<div class="container">
 			<div class="row">
-				<div class="six columns splash">
-					<h1>Keith Moore</h1>
-					<h5>Full Stack Web Developer</h5>
-					<div class="down-arrow-wrapper">
-						<a class="down-arrow" href="#portfolio"><i class="fa fa-arrow-down fa-2x" aria-hidden="true"></i></a>
+				<div class="twelve columns splash-wrapper">
+					<div class="splash">
+						<h1>Keith Moore</h1>
+						<h5>Web Developer</h5>
+						<div class="down-arrow-wrapper">
+							<a class="down-arrow" href="#portfolio"><i class="fa fa-arrow-down fa-3x" aria-hidden="true"></i></a>
+						</div>
 					</div>
 				</div>
 			</div>
