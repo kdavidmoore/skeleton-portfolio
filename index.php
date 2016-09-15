@@ -27,7 +27,7 @@
 				<div class="twelve columns splash-wrapper">
 					<div class="splash">
 						<h1>Keith Moore</h1>
-						<h5>Web Developer</h5>
+						<h5>Web Developer / Software Engineer</h5>
 						<div class="down-arrow-wrapper">
 							<a class="down-arrow" href="#portfolio"><i class="fa fa-arrow-down fa-3x" aria-hidden="true"></i></a>
 						</div>
@@ -180,10 +180,22 @@
 						"</div>";
 				}
 			?>
+
 			<div class="row">
-				<div class="u-full-width centered"></div>
-					<h4 class="centered">Follow me on social media</h4>
-					<div class="social-items centered">
+				<div class="six columns">
+					<h4>Download my resume</h4>
+					<div class="social-items">
+						<a href="kmoore_resume.pdf">
+							<span class="fa-stack fa-2x">
+								<i class="fa fa-circle fa-stack-2x"></i>
+								<i class="fa fa-file-text fa-stack-1x fa-inverse"></i>
+							</span>
+						</a>
+					</div>
+				</div>
+				<div class="six columns">
+					<h4>Follow me on social media</h4>
+					<div class="social-items">
 						<a href="https://github.com/kdavidmoore">
 							<span class="fa-stack fa-2x">
 								<i class="fa fa-circle fa-stack-2x"></i>
@@ -196,13 +208,8 @@
 								<i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
 							</span>
 						</a>
-						<a href="kmoore_resume.pdf">
-							<span class="fa-stack fa-2x">
-								<i class="fa fa-circle fa-stack-2x"></i>
-								<i class="fa fa-file-text fa-stack-1x fa-inverse"></i>
-							</span>
-						</a>
 					</div>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -210,7 +217,6 @@
 	<a href="#home" class="cd-top">Top</a>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<!-- <script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script> -->
 <script src="http://cdn.jsdelivr.net/jquery.scrollto/2.1.2/jquery.scrollTo.min.js"></script>
 <script src="http://cdn.jsdelivr.net/jquery.localscroll/1.4.0/jquery.localScroll.min.js"></script>
 <script src="js/cd-top.js"></script>
