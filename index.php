@@ -4,8 +4,8 @@
 
 	<meta charset="utf-8">
 	<title>Keith Moore</title>
-	<meta name="description" content="">
-	<meta name="author" content="">
+	<meta name="description" content="Keith Moore's Professional Portfolio">
+	<meta name="author" content="Keith D. Moore">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -27,7 +27,7 @@
 				<div class="twelve columns splash-wrapper">
 					<div class="splash">
 						<h1>Keith Moore</h1>
-						<h5>Web Developer / Software Engineer</h5>
+						<h5>Software Engineer</h5>
 						<div class="down-arrow-wrapper">
 							<a class="down-arrow" href="#portfolio"><i class="fa fa-arrow-down fa-3x" aria-hidden="true"></i></a>
 						</div>
@@ -182,20 +182,23 @@
 			?>
 
 			<div class="row">
-				<div class="six columns">
-					<h4>Download my resume</h4>
-					<div class="social-items">
+				<div class="three columns filler">
+					<!-- filler -->
+				</div>
+				<div class="six columns centered">
+					<div class="social-items centered">
+						<a style="visibility: hidden;" href="">
+							<span class="fa-stack fa-2x">
+								<i class="fa fa-circle fa-stack-2x"></i>
+								<i class="fa fa-file-text fa-stack-1x fa-inverse"></i>
+							</span>
+						</a>
 						<a href="kmoore_resume.pdf">
 							<span class="fa-stack fa-2x">
 								<i class="fa fa-circle fa-stack-2x"></i>
 								<i class="fa fa-file-text fa-stack-1x fa-inverse"></i>
 							</span>
 						</a>
-					</div>
-				</div>
-				<div class="six columns">
-					<h4>Follow me on social media</h4>
-					<div class="social-items">
 						<a href="https://github.com/kdavidmoore">
 							<span class="fa-stack fa-2x">
 								<i class="fa fa-circle fa-stack-2x"></i>
@@ -206,6 +209,12 @@
 							<span class="fa-stack fa-2x">
 								<i class="fa fa-circle fa-stack-2x"></i>
 								<i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+							</span>
+						</a>
+						<a href="https://www.instagram.com/rocks.and.stuff/">
+							<span class="fa-stack fa-2x">
+								<i class="fa fa-circle fa-stack-2x"></i>
+								<i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
 							</span>
 						</a>
 					</div>
